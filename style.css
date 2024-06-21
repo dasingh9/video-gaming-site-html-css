@@ -24,20 +24,6 @@ header > h1 {
     justify-content: space-around;
 }
 
-.card {
-    width: 300px;
-    margin: 20px;
-}
-
-.card-img-top {
-    width: 100%;
-    border-radius: 10px;
-}
-
-.card-title {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
 .btn-red-gradient {
     background: #d14121;
     padding: 10px;
