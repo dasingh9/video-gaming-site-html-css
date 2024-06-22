@@ -11,3 +11,8 @@
 .card-title {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.card > img:hover {
+    width: 350px;
+    transition: 1s;
+}
